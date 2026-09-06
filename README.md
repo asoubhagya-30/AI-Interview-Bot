@@ -99,31 +99,32 @@ The platform provides a structured way for users to practice technical and behav
 
 ## 📂 Project Structure
 
-AI-INTERVIEW-BOT
+```text
+AI-INTERVIEW-BOT/
 │
-├── backend
-│   ├── config
-│   ├── firebase
-│   ├── models
-│   ├── routes
+├── backend/
+│   ├── config/
+│   ├── firebase/
+│   ├── models/
+│   ├── routes/
 │   ├── server.js
 │   ├── app.py
 │   ├── interview_ai.py
 │   └── package.json
 │
-├── public
+├── public/
 │
-├── src
+├── src/
 │
-├── screenshots
+├── screenshots/
 │
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
 ├── README.md
 └── .gitignore
+```
 
-> Folder names may vary depending on the current project structure.
 
 ## ⚙️ Installation & Setup
 
